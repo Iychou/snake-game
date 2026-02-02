@@ -1,6 +1,6 @@
 # snake-game
 snake game in python as projet to learinng python
-# 🐍 Snake Game (Python)
+# Snake Game (Python)
 
 A simple Snake game built using Python and Pygame.
 
