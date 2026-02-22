@@ -4,4 +4,5 @@ A simple Snake game built using Python and Pygame.
 ## How to run
 ```bash
 pip install pygame
+cd /game/path/
 python snake_game.py
